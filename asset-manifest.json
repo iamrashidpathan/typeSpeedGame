@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typeSpeedGame/static/css/main.7d05fb0c.css",
+    "main.js": "/typeSpeedGame/static/js/main.10c799ba.js",
+    "index.html": "/typeSpeedGame/index.html",
+    "main.7d05fb0c.css.map": "/typeSpeedGame/static/css/main.7d05fb0c.css.map",
+    "main.10c799ba.js.map": "/typeSpeedGame/static/js/main.10c799ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d05fb0c.css",
+    "static/js/main.10c799ba.js"
+  ]
+}
